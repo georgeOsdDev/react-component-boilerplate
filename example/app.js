@@ -16,7 +16,7 @@ class App extends React.Component {
       <div>
         <MyComponent1 foo={'foo'} bar={'barbarbar'} baz={false} />
         <p style={{position: 'fixed', 'bottom': '10px'}}>
-          Source code can be found at <a href='https://github.com/georgeosddev/react-component-boilerplate/example'>GitHub</a>
+          Source code can be found at <a href='https://github.com/georgeOsdDev/react-component-boilerplate/tree/master/example'>GitHub</a>
         </p>
       </div>
     )
