@@ -44,7 +44,7 @@ var App = (function (_React$Component) {
           'Source code can be found at ',
           _reactAddons2['default'].createElement(
             'a',
-            { href: 'https://github.com/georgeosddev/react-component-boilerplate/example' },
+            { href: 'https://github.com/georgeOsdDev/react-component-boilerplate/tree/master/example' },
             'GitHub'
           )
         )
