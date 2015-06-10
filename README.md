@@ -16,7 +16,7 @@
 
 ----
 
-# react-component-boilerplate [![Build Status](https://travis-ci.org/georgeOsdDev/react-component-boilerplate.svg?branch=develop)](https://travis-ci.org/georgeOsdDev/react-component-boilerplate) [![npm version](https://badge.fury.io/js/react-component-boilerplate.svg)](http://badge.fury.io/js/react-component-boilerplate)
+# react-component-boilerplate [![Build Status](https://travis-ci.org/georgeOsdDev/react-component-boilerplate.svg?branch=develop)](https://travis-ci.org/georgeOsdDev/react-component-boilerplate) [![npm version](https://badge.fury.io/js/[PUT PACKAGE NAE HERE].svg)](http://badge.fury.io/js/[PUT PACKAGE NAE HERE])
 
 Description here Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 
