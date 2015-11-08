@@ -1,10 +1,8 @@
 'use strict';
 
-import React from 'react/addons';
+import React from 'react';
+import ReactDom from 'react-dom';
 import MyComponent1  from '../lib/components/MyComponent1';
-
-//allow react dev tools work
-window.React = React;
 
 class App extends React.Component {
   constructor(props) {
@@ -23,4 +21,4 @@ class App extends React.Component {
   }
 };
 
-React.render(<App/>, document.getElementById('out'));
+ReactDom.render(<App/>, document.getElementById('out'));
